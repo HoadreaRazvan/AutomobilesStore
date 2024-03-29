@@ -1,0 +1,4 @@
+1|1500|96|20|Mercedes|S|Black
+2|20500|100|50|Audi|A4|Red
+3|1200|100|60|Audi|A5|Blue
+4|15500|96|100|BMW|M6|Black
